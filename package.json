@@ -1,0 +1,25 @@
+{
+  "name": "is-connect-refused-error",
+  "version": "0.1.0",
+  "description": "Checks if the provided error is connect refused error.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyurl/is-connect-refused-error.git"
+  },
+  "keywords": [
+    "connect",
+    "refused",
+    "error"
+  ],
+  "author": "Ayon Lee <i@hyurl.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyurl/is-connect-refused-error/issues"
+  },
+  "homepage": "https://github.com/hyurl/is-connect-refused-error#readme"
+}
